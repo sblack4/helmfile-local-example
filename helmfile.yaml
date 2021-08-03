@@ -1,0 +1,8 @@
+---
+
+releases:
+
+- name: helmfile-local-example
+  namespace: example
+  chart: .
+  wait: true

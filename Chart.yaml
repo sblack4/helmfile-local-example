@@ -1,0 +1,8 @@
+---
+
+apiVersion: v2
+name: helmfile-local-example
+description: Example of using helmfile to deploy local manifests
+type: application
+version: 0.0.1
+appVersion: 0.0.1
